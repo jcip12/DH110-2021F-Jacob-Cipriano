@@ -6,3 +6,7 @@
 ---
 
 (purpose of the asignment -- 3-5 sentences what you want to show via this assignment)
+
+https://www.ny.gov/
+
+![Website of New York State Government](NYGOVWebsite.png)
