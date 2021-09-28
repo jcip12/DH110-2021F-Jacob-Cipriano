@@ -1,5 +1,5 @@
-# (Title of project)
-## (name, course info)
+# New York Government Websites
+## Jacob Cipriano -- DH110, Fall 2021, UCLA
 
 ### Assignment01: Heuristic Evaluation of New York
 
