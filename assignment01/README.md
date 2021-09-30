@@ -20,11 +20,19 @@ https://www.nysl.nysed.gov/
 ### Info/Evaluation
 The New York State library website fails many heuristic principles. Mainly, the website is not friendly to new users. It offers little context to those trying to naviagte the site, often making users click on irrelevant links to other New York websites in order to gain any relevant information. The aesthetic is cluttered, disorganized, and creates shortcuts only for those deeply familiar with the site. There is no help section and the tabs are organized for those already aware of their needs on the site. Most links are text-based, and all the same font, creating a dense feeling when actually very little is displayed on the home page. 
 
-### Heuristics Evaluation
+### Heuristics Evaluation Using Rutger University's Template
 ![PDF of completed Heuristic Evaluation Template](NYSL-evaluation.pdf)
 
 ## Website #2
 
 https://nyassembly.gov/
+
+![Website of the New York State Assembly](New-York-Assembly.png)
+
+### Info/Evaluation
+
+### Heuristics Evaluation Using Rutger University's Template
+
+
 
 
