@@ -30,9 +30,11 @@ https://nyassembly.gov/
 ![Website of the New York State Assembly](New-York-Assembly.png)
 
 ### Info/Evaluation
+While a step up form the New York State Library website, especially regarding aesthetics and design, the New York State Assembly website fails to offer context for many links and processes. Those familiar with the Assembly may find it easy to use, but those new to this form of government would have no context for various technical terms. Additionally, many links redirect to other sites without notice. While some tabs direct to lists of bills, others, similarly named, link to bill searches. There is a useful site map, but no general information for those new to the site who want easy navigation. 
+
 
 ### Heuristics Evaluation Using Rutger University's Template
-
+![PDF of completed evaluation template for the NY State Assembly website](New-York-Assembly-Evaluation.pdf)
 
 
 
