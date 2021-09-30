@@ -15,8 +15,8 @@ https://www.nysl.nysed.gov/
 
 ![Website of New York State Library](NYSL.png)
 
+### Info/Evaluation
 
 
-https://www.ny.gov/
+### Heuristics Evaluation
 
-![Website of New York State Government](NYGOVWebsite.png)
