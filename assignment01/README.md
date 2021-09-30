@@ -13,7 +13,7 @@ This assignment is a study of the heuristic evaluations of two New York State we
 
 https://www.nysl.nysed.gov/
 
-
+![Website of New York State Library](NYSL.png)
 
 
 
