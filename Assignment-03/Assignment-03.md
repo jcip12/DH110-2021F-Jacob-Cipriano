@@ -3,7 +3,7 @@
 ---
 
 # Project Description
-The purpose and goal of this study was to explore the usability of the New York State Library website, along with its design and layout, particularly relating to its function in conducting genealogical research. In order to conduct this study, I created an interview script and various research questions, then created an ideal participant and found someone for the study who fit the description. 
+The purpose and goal of this study was to explore the usability of the New York State Library website, along with its design and layout, particularly relating to its function in conducting genealogical research. In order to conduct this study, I created an interview script and various research questions, then created an ideal participant and found someone for the study who fit the description. Genealogy is the study of ancestry, particularly family trees. The website for the New York State Library is not primarily a hub for this type of research, however it is available and is one of the many features that are not obviously an aspect of the site. The website can be found here:
 
 https://www.nysl.nysed.gov/
 
