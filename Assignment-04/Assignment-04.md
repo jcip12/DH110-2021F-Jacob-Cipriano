@@ -1,4 +1,4 @@
-### The Purpose of UX Storytelling in my project is to figure out what a typical user for this two web features would likely be, what difficulties they face and how they might differ or be similar to user testing. By imagining thorough scenarios, I can better predict why my website will need in order to best function. I can also figure out what specific features are useful or not useful depending onb who is using them. A feature that is easy to use for obe, may not be for another. 
+### The Purpose of UX Storytelling in my project is to figure out what typical users for these two web features would likely be, what difficulties they might face and how they might differ or be similar to user testing. By imagining thorough scenarios, I can better predict why my website will need in order to best function. I can also figure out what specific features are useful or not useful depending onb who is using them. A feature that is easy to use for one, may not be for another. 
 
 
 # Personas and Empathy Maps
