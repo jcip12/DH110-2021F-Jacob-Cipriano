@@ -17,10 +17,10 @@
 # Scenarios and Journey Maps
 
 ## Why Aubrey is using this feature
-Aubrey is concerned that her son will not have access to the same library during the pandemic as before. He is devouring the Percy Jackson series and is becoming an avid reader, and she's afraid that being stuck inside, away from the physical library will keep him away from reading during a critical time in his development. She learnes about an app version of the NovelNY program, a digital library system, that is especially syited to children and young people. 
+Aubrey is concerned that her son will not have access to the same library during the pandemic as before. He is devouring the Percy Jackson series and is becoming an avid reader and she's afraid that being stuck inside, away from the physical library, will keep him away from reading during a critical time in his development. She learns about an app version of the NovelNY program, a digital library system, that is especially suited to children and young people. 
 
 ## How Aubrey is Using this Feauture
-
+Aubrey downloads the NovelNY app that is suited for children onto her son's iPad. She spends ten minutes explaining how to use the app, and within the hour she sees her son reading the Percy Jackson series. After work, she checks his iPad to see that he has a dozen new children's books downlaoded through the app. Because she needed to barely assist her son, he is becoming more independent and willing to explore reading on his own. 
 ## Aubrey's Journey Map
 ![Aubrey's Journey Map](Aubrey's-Journey-Map.png)
 
