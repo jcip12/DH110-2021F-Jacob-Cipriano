@@ -4,7 +4,7 @@ Assignment-06
 
 ---
 
-# About This project / The Purpose of Interface Design. 
+# About This project / The Purpose of Interface Design 
 The overall puprose of this project is to redesign the New York State Library Website based on certain activities and audence demographics. I am designing a web app that would make it easier to learn about the NovelNY program and the Genealogy stystem. I am basing these activities on the personas of two individuals: one who is a mother looking to educate her son about NovelNY, and another who is an older man looking to start consrtucting a family tree. 
 
 This assignment is meant to to test various interface designs with the intention of finding an ideal wirframe prototype. The advantages of doing this include being able to test different aesthetics on participants (who can give an impression on the design) and being able to experiement with different colors, typographic, and shape designs. By experiemnting with designs, I was able to approximate what I'd like to see in my final prototype and experience my first digital wirflow for this prototype. 
@@ -35,7 +35,7 @@ Link to the Figma file of the digital wireflow:
 https://www.figma.com/file/GK5LyIayoVKPY1mhxsNaav/Digital-Wireflow-1?node-id=0%3A1
 
 # Reflection
-The process of testeing different layouts helped me to verify the kind of clean, simple dessign I was looking for for the digital wireflow. I chose to use a 22 point beveled edge for all buttons and a slight shadow, in order to emphasize the buttons. I based a color pattern on the original website, though changed some of the blue tones in order to better contrast with text. 
+The process of testeing different layouts helped me to verify the kind of clean, simple dessign I was looking for for the digital wireflow. I chose to use a 22 point beveled edge for all buttons and a slight shadow, in order to emphasize the buttons. I based a color pattern on the original website, though changed some of the blue tones in order to better contrast with text. The font, Thasadith, appeared closest to the original website font for the main heading, and I decided to keep that consistent thorughout. I found it helpful to highlight certain areas of text with a lighter blue color than my header. 
 
 
 
