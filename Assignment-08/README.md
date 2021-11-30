@@ -70,7 +70,7 @@ As you can see, there were some differences between my intended wireflow and the
 [Assignment 5](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-05/Assignment-05.md)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Finally, once incorporating some slight changes to the wireflow, I created a High-Fidelity prototype through figma.com. A series of tests followed, wherein 
+Finally, once incorporating some slight changes to the wireflow, I created a high-fidelity prototype through figma.com. A series of tests followed, wherein I asked multiple participants to see what worked and didn't work in the prototype. I recieved several comments about backflow, which is the action a user makes when returning to previous pages. This enlightened me to this issue, along with the issue of uneven formatting. I truly learned that one has to be very careful when maintgaining equal distance between elements on screen. It is not enough to simply "eyeball" it. The most useful element of this stage of testing was testing this prototype on those who had seen it develop wince the earliest user tests. Their insight was often the most valuable, as the could focus on the smaller details, like font style on color. 
 
 Here is a link to my final prototype:
 
@@ -87,7 +87,8 @@ If you would like to read more about the high-fidelity prototype, more can be fo
 [Assignment 7](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
 
 ## Pitch video 
-The link to the pitch can be accessed [here]( )
+The link to the pitch can be accessed [here]( ).
 
-## Conclusion: what did you learn throughout the process?
+## Conclusion
+I learned a tremendous amound about user testing, wireflows, workshopping prototypes, and finding good participants for user tests. It takes skill and a huge amount of time to conduct a succesful series of user tests, not to mention incorporating that user data into designing a succesful prototype. My favorite element of the process was drawing the digital wireflows. It felt like a nice break from the screen, and helped me visualize (with mistakes) everything I wanted to see in the ideal prototype. The hardest aspect to me, was in creating the final high-fidelity prototype. Trying yo use internet tools to match my vision for the prototype was difficult. Regardless, I am grateful for this process and I look forward to implementing everything I've leafrned here on future projects. 
 
