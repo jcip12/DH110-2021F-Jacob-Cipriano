@@ -11,7 +11,7 @@ I designed  a web app that would make it easier to learn about two main function
 Through this design prototype, I hope that this can contribute to the New York State Library by demonstrating an effective way to display and communicate information to a new audience. Access to library materials can be made difficult by outdated websites. I intend to only address two main sources of information, but I still hope that I can demostrate the simplicity it takes to implement better context regarding certain public programs. 
 
 ## Competitor analysis 
-Before designing or even conceptualizing a new project, it was necessary to first study the original New York State Library Website and conduct a heuristic evaluation. I was able to find a number of issues with the layout and format of the text, along with a number of interactive items that didn't appear interactive and did not create a clear, logical interaction. 
+Before designing or even conceptualizing a new project, it was necessary to first study the original New York State Library Website (https://www.nysl.nysed.gov/) and conduct a heuristic evaluation. I was able to find a number of issues with the layout and format of the text, along with a number of interactive items that didn't appear interactive and did not create a clear, logical interaction. 
 
 [Link to the heuristic evaluation](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/assignment01/NYSL-evaluation.pdf)
 
