@@ -51,20 +51,34 @@ To read more about how I designed graphic design elements, please find more in A
 [Assignment 7](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
 
 ## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+Low-fidelity prototypes are used to organize and test a prototype's wireflow before putting in the work for a high-fidelity prototype. A low-fidelity prototype doesn't have to be drawn, but I found that the easiest way to communicate my plan. I first drew the wireflow myself, then copied the original as a photograph on an iPad, so that I could ask a participant to test the wireflow to see if the processes I laid out were intuitive or not. The primary user test can be seen here:
 
-user-test-03.PNG
+![User-Test](user-test-03.PNG)
 
-wireflow.PNG
+The intended wireflow can be seen here:
 
+![Wireflow-lo-fi-prototype](wireflow.PNG)
 
+As you can see, there were som edifferences between my intended wireflow and the percieved wireflow of the participant. Ironing out these issues is of primary importance in the low-fidelity prototype phase. To see more user test frames and information about the prototype, please explore Assignment 5:
 
+[Assignment 5](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-05/Assignment-05.md
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+Finally, once incorporating some slight changes to the wireflow, I created a High-Fidelity prototype through figma.com. A series of tests followed, wherein 
 
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Here is a link to my final prototype:
+
+[Final Wireflow](https://www.figma.com/file/lSNDvEiSwh3X2uSK07m7U0/Digital-Wireflow-(final))
+
+![Wireflow](Digital-Wireflow-3.PNG)
+
+Below is a link to the interactive prototype. Note that this prototype supports only two main actions: finding information about NovelNY and finding information about family trees. 
+
+[Interactive prototype](https://www.figma.com/proto/lSNDvEiSwh3X2uSK07m7U0/Digital-Wireflow-(final)?scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&node-id=2%3A2)
+
+If you would like to read more about the high-fidelity prototype, more can be found in Assignment 7:
+
+[Assignment 7](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
 
 ## Pitch video 
 The link to the pitch can be accessed [here]( )
