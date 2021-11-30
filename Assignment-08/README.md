@@ -29,10 +29,11 @@ More information about the heuristic evaluations can be found in Assignment 1 an
 To best understand what needed to be changed with the original NYSL website, I conducted usablility testing with a participant over the phone and I asked them to complete certain tasks. I also asked about their general reception to the website: what they liked/disliked about it, what was aesthetically pleasing, etc. This resulted in a great dialogue about what could be fixed. While my participant had little trouble finding particular sections of the website, they complained about a lack of information or available context. They also complained about the website's uneven layout, though praised its clean look. Overall, I learned through this user research exactly what I needed to focus on when designing my prototype: particularly, access to information. 
 [Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-03/Assignment-03.md)
 
-## UX storytelling [persona+scenario, assignment04]
+## UX storytelling 
 To better help understand my goals for the project, I created two imaginary personas and two invented scenarios. This was meant to help me get into the fears and hopes of an imageined user of the website. Though I first did not understand how the extensive character-building would prove to be useful, it helped me organize the specific tasks I wanted my interactive prototype to complete. The first persona, Aubrey, is a mom who is a full-time student and worker and wants to teach her son how to access library books online. The second persona, Stanley, is an older gentleman looking to start research on a family tree. While both personas are very different from each other, they both seek information that is obscure or can be hard to find on the NYSL website. 
 
 ![Aubrey-Persona](Aubrey-Persona.png)
+
 ![Stanley-Persona](Stanley-Persona.png)
 
 After imagining these individuals, I was able to further imagine the specific goals and steps they'd be willing to take when completing their chosen task. These maps can be seen in assignment 4, along with further information about the persona development:
@@ -56,7 +57,7 @@ These experiements helped me lock down what layout best suited my needs for the 
 
 [Assignment 7](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
 
-## Low-fidelity prototype (wireflow, assignment06)
+## Low-fidelity prototype
 Low-fidelity prototypes are used to organize and test a prototype's wireflow before putting in the work for a high-fidelity prototype. A low-fidelity prototype doesn't have to be drawn, but I found that the easiest way to communicate my plan. I first drew the wireflow myself, then copied the original as a photograph on an iPad, so that I could ask a participant to test the wireflow to see if the process I laid out was intuitive or not. The primary user test can be seen here:
 
 ![User-Test](user-test-03.PNG)
@@ -69,7 +70,7 @@ As you can see, there were some differences between my intended wireflow and the
 
 [Assignment 5](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-05/Assignment-05.md)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity prototype
 Finally, once incorporating some slight changes to the wireflow, I created a high-fidelity prototype through figma.com. A series of tests followed, wherein I asked multiple participants to see what worked and didn't work in the prototype. I recieved several comments about backflow, which is the action a user makes when returning to previous pages. This enlightened me to this issue, along with the issue of uneven formatting. I truly learned that one has to be very careful when maintgaining equal distance between elements on screen. It is not enough to simply "eyeball" it. The most useful element of this stage of testing was testing this prototype on those who had seen it develop wince the earliest user tests. Their insight was often the most valuable, as the could focus on the smaller details, like font style on color. 
 
 Here is a link to my final prototype:
@@ -87,7 +88,7 @@ If you would like to read more about the high-fidelity prototype, more can be fo
 [Assignment 7](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
 
 ## Pitch video 
-The link to the pitch can be accessed [here]( ).
+The link to the pitch can be accessed [here](https://www.youtube.com/watch?v=7Ax8Wp7dABY).
 
 ## Conclusion
 I learned a tremendous amound about user testing, wireflows, workshopping prototypes, and finding good participants for user tests. It takes skill and a huge amount of time to conduct a succesful series of user tests, not to mention incorporating that user data into designing a succesful prototype. My favorite element of the process was drawing the digital wireflows. It felt like a nice break from the screen, and helped me visualize (with mistakes) everything I wanted to see in the ideal prototype. The hardest aspect to me, was in creating the final high-fidelity prototype. Trying yo use internet tools to match my vision for the prototype was difficult. Regardless, I am grateful for this process and I look forward to implementing everything I've leafrned here on future projects. 
