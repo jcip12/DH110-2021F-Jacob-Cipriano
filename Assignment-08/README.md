@@ -35,14 +35,28 @@ Summary and link to your assignment folder
 
 [Assignment 4](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-04/Assignment-04.md)
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+## Wireframe and graphic design element variation
+After creating prototypes and testing usability, it was time to experiment with design elements and create graphic design variations. In order to do this, I used figma.com to create a number of design variations that experiemnted with font size, font color, layout, spazing, button shapes, shadows, and color palette. 
 
+![Prototype-Variations](prototype-variations.png)
 
-[Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-06/Assignment-06.md)
-[Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
+In order to establish that the prototypes conformed to standards of accessibility, I conducted a contrast test for both the light and dark modes, which they passed.
+![light-mode-color-test](light-mode-color-test.PNG)
+![dark-mode-color-test](dark-mode-color-test.PNG)
+These experiements helped me lock down what layout best suited my needs for the prototype. Not to mention, recording an impression test with a participant further solifified my confidence in the specific color and font design I'd be using for the site. 
+To read more about how I designed graphic design elements, please find more in Assignmnets 6 and 7:
+
+[Assignment 6](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-06/Assignment-06.md)
+
+[Assignment 7](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+user-test-03.PNG
+
+wireflow.PNG
+
 
 
 
