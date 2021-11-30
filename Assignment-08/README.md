@@ -2,7 +2,7 @@
 ### Jacob Cipriano
 ### DH-110 - 2021F
 
-## Introduction: a brief information about the project. 
+## Introduction:
 The purpose of this project is to redesign the New York State Library Website into a mobile-app focused on accessibility and access to resources. I was motivated to design an app for this website because I noticed several issues, primarily regarding acessibility. It felt like the website was easy to use for those already familiar with the resources, but for those looking for new access to infomration, the process could by labyrinthine and sometimes information could not be easily accessed. 
 
 I designed  a web app that would make it easier to learn about two main functions, the NovelNY program and the Genealogy stystem. I am basing these activities on the personas of two individuals: one who is a mother looking to educate her son about NovelNY, and another who is an older man looking to start consrtucting a family tree.
@@ -23,20 +23,27 @@ More information about the heuristic evaluations can be found in Assignment 1 an
 
 [Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment02/Assignment02.md)
 
-## User research [contextual inquiry, assignment04]
-Summary and link to your assignment folder
-[Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/tree/main/Assignment-04)
+## User research 
+To best understand what needed to be changed with the original NYSL website, I conducted usablility testing with a participant over the phone and I asked them to complete certain tasks. I also asked about their general reception to the website: what they liked/disliked about it, what aws aesthetically pleasing, etc. This resulted in a great dialogue about what could be fixed. While my participant had little trouble finding particular sections of the website, they complained about a lack of information or available context. They also complained about the website's uneven layout, though praised its clean look. Overall, I learned through this user research exactly what I needed to focu on when designing my prototype: particularly, access to information. 
+[Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-03/Assignment-03.md)
 
-## UX storytelling [persona+scenario, assignment05]
+## UX storytelling [persona+scenario, assignment04]
 Summary and link to your assignment folder
-[Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-05/Assignment-05.md)
+
+![Aubrey-Persona](Aubrey-Persona.png)
+![Stanley-Persona](Stanley-Persona.png)
+
+[Assignment 4](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-04/Assignment-04.md)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+
+
 [Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment-06/Assignment-06.md)
 [Assignment 2](https://github.com/jcip12/DH110-2021F-Jacob-Cipriano/blob/main/Assignment07/Assignment07.md)
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
 
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
@@ -46,6 +53,7 @@ Summary statement and link to or an embedded prototype
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
 ## Pitch video 
+The link to the pitch can be accessed [here]( )
 
 ## Conclusion: what did you learn throughout the process?
 
